@@ -1,0 +1,6 @@
+#this is a readme file
+
+
+This is just a small game using tkinter in python where we just count the letters present in the given word and we type the count. You will get it when you see those screenshots.
+
+Hope you like it :)
