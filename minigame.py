@@ -1,3 +1,4 @@
+# an amazing project
 import random 
 import tkinter
 import inflect
